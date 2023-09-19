@@ -1,10 +1,10 @@
-package skypro.employeeBookFinal;
+package skypro.employeeBook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeBookFinalApplicationTests {
+class EmployeeBookApplicationTests {
 
 	@Test
 	void contextLoads() {
